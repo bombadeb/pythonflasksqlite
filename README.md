@@ -13,3 +13,8 @@ python
 >> from app import db
 >> db.create_all()
 ```
+
+### Running app
+```sh
+python .\app.py
+```
